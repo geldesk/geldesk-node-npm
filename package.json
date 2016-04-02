@@ -4,11 +4,11 @@
   "description": "GelDesk for Node.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devoptix/geldesk-node.git"
+    "url": "git+https://github.com/geldesk/geldesk-node.git"
   },
-  "author": "Wayne Bloss <waynebloss@gmail.com> (https://github.com/devoptix)",
+  "author": "Wayne Bloss <waynebloss@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/devoptix/geldesk-node",
+  "homepage": "http://www.geldesk.org",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
